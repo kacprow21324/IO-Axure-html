@@ -6,3 +6,10 @@ Zmiany mają być zatwierdzone.
 
 - 1 https://github.com/
 - 2 https://docs.github.com/en/get-started/quickstart
+
+
+---
+
+## Repozytorium Kacpra Woszczyło 21324 zostało zedytowane przez Adriana Witów 21319 😁
+
+---
